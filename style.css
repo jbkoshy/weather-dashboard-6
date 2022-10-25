@@ -1,1 +1,66 @@
+h1{
+    margin-top: -2rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4rem;
+    font-weight: 600;
+}
 
+p, a{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3, h4, h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    color:rgb(90, 159, 224);
+}
+
+.jumbotron{
+    background-color: rgb(212, 224, 241);
+    color: rgb(90, 159, 224);
+    height: 4rem;
+    margin-bottom: 0px;
+}
+
+.low{
+    border-radius: 6px;
+    background-color: green;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+}
+
+.moderate{
+    border-radius: 6px;
+    background-color: yellow;
+    padding: 5px;
+    color: black;
+}
+
+.high{
+    border-radius: 6px;
+    background-color: red;
+    padding: 5px;
+    color: black;
+}
+
+.vhigh{
+    border-radius: 6px;
+    background-color: red;
+    padding: 5px;
+    color: white;
+}
+
+.extreme{
+    border-radius: 6px;
+    background-color: violet;
+    padding: 5px;
+    color: white;
+}
+
+.searchCol{
+    height: 100vh;
+    background-color: rgb(212, 224, 241);
+    padding-top: 1rem;
+    padding-right: 2rem;
+    margin-right: -1rem;
+}
